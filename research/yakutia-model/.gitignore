@@ -1,0 +1,4 @@
+# Built by the scripts; rebuild with extract.py and weather.py
+*.parquet
+.venv/
+__pycache__/
